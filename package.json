@@ -1,0 +1,25 @@
+{
+  "name": "next-tailwind-boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "author": "Nour Essoussi",
+  "license": "ISC",
+  "dependencies": {
+    "@zeit/next-css": "^1.0.1",
+    "@zeit/next-sass": "^1.0.1",
+    "autoprefixer": "^9.6.1",
+    "css-loader": "^1.0.0",
+    "next": "^9.0.7",
+    "postcss-easy-import": "^3.0.0",
+    "react": "^16.10.0",
+    "react-dom": "^16.10.0",
+    "tailwindcss": "^1.1.2"
+  }
+}
